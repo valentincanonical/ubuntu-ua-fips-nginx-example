@@ -1,0 +1,7 @@
+token: <secret token obtained from ubuntu.com/advantage>
+# free tokens are available for personal use!
+enable_services:
+  - fips
+  # enable `fips-updates` instead for priority security updates
+  - esm-infra
+  # enable 10-year security updates from Ubuntu ESM
